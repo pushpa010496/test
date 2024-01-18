@@ -1,0 +1,152 @@
+/*ADVERTISE CSS*/
+
+.magz-bg{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#be280d+0,d53815+71 */
+  background: #be280d; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #be280d 0%, #d53815 71%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  #be280d 0%,#d53815 71%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  #be280d 0%,#d53815 71%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#be280d', endColorstr='#d53815',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  }
+}
+
+.min-hyt-580{
+    min-height: 630px;
+  }
+  .theme-bg-color{
+    background-color: #f04e23;
+  }
+  .TXT-wyt{
+    color: #fff;
+  }
+  
+  .advert h2{
+    color: #fff;
+    font-size: 20px;  
+    line-height: 26px;
+    font-weight: normal;
+    font-weight: 600;
+  }
+
+  .advert p{
+    color: #fff;
+    font-size: 17px; 
+    line-height: 22px;
+    font-weight: normal;
+  }
+  
+  .adv-visit h2{
+    color: #f04e23;
+  }
+
+  .fa-cust{
+    background-color:#f04e23;
+    color: #fff;
+    border-radius: 50%;
+    padding: 24px;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    border:1px solid transparent;    
+    -webkit-transition: all .6s ease;
+    -moz-transition: all .6s ease;
+    -ms-transition: all .6s ease;
+    -o-transition: all .6s ease;
+    transition: all .6s ease;
+  }
+   .fa-cust:hover{
+    background-color:#fff;
+    color: #f04e23;
+    border:1px solid #f04e23;
+    cursor: default;
+    -webkit-box-shadow: 2px 2px 5px 0 rgba(0,0,0,.3);
+    box-shadow: 2px 2px 5px 0 rgba(0,0,0,.3);
+    -webkit-transition: all .6s ease;
+    -moz-transition: all .6s ease;
+    -ms-transition: all .6s ease;
+    -o-transition: all .6s ease;
+    transition: all .6s ease;
+  }
+
+  .banner-wrap-img{
+    bottom: 0;
+    display: block;
+    left: 0;
+    position: relative;
+    right: 0;
+    bottom: 0;
+    top: 0px;
+  }
+  
+
+  .btn-danger {
+    background-color: #444;
+    border-color: #666;
+    color: #fff;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .btn-danger:hover {
+    color: #222;
+    background-color: #fff;
+    border-color: #ED1A3B;
+  }
+  
+  .e-book{
+    -moz-transform: scale(.9) rotate(0deg);
+    -webkit-transform: scale(.9) rotate(0deg);
+    -o-transform: scale(.9) rotate(0deg);
+    -ms-transform: scale(.9) rotate(0deg);
+    transform: scale(.9) rotate(0deg); 
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    }
+
+  .e-book:hover{
+    -moz-transform: scale(1) rotate(7deg) translateY(-20px);
+    -webkit-transform: scale(1) rotate(7deg) translateY(-20px);
+    -o-transform: scale(1) rotate(7deg) translateY(-20px);
+    -ms-transform: scale(1) rotate(7deg) translateY(-20px);
+    transform: scale(1) rotate(7deg) translateY(-20px);
+    }
+
+  @media only screen and (min-device-width :200px) and (max-device-width :990px){
+    .mob-MR0{
+    padding-left:0px;
+    padding-right: 0px;
+    }
+
+    .banner-wrap-img{
+    bottom: 0;
+    display: block;
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 0px;
+    float: right;
+    }
+    .advert-bg{padding-right: 10px !important;}
+  }
+
+  @media only screen and (min-device-width :991px) and (max-device-width :1240px){
+    .min-hyt-580{
+      min-height:630px;
+    }
+    .banner-wrap-img{
+    bottom: 0;
+    display: block;
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 57.7%;
+    }
+
+  }
+
+
+
+
